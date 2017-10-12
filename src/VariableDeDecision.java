@@ -23,4 +23,7 @@ public class VariableDeDecision
 		return value;
 	}
 	
+	public void setValue(float value) {
+		this.value = value;
+	}
 }
